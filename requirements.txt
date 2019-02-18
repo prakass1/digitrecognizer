@@ -7,5 +7,4 @@ tensorflow
 gunicorn
 flask
 pillow
-json
 
