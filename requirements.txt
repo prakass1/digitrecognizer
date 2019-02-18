@@ -6,6 +6,6 @@ sklearn
 tensorflow
 gunicorn
 flask
-PIL
+pillow
 json
 
