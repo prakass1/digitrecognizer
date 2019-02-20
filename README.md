@@ -23,14 +23,10 @@ Steps to follow are: <br/>
   1. First make an account at heroku.<br/>
   2. Download heroku cli for Windows/Linux/Mac<br/>
   3. Using bash,<br/>
-  <code>
-     cd working_dir #containing the .git file <br/></code>
-     <code>
-     heroku create app_name <br/></code>
-     <code>
+     cd working_dir #containing the .git file <br/>
+     heroku create app_name <br/>
      git remote -v <br/></code>
-   <code>
-   git push heroku master # Pushes the app to heroku master</code>
+     git push heroku master # Pushes the app to heroku master
   
   
   Two important files that are necessary for herokus are:<br/>
