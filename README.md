@@ -1,6 +1,6 @@
 # digit recognizer
 
-This is a web application developed to detect and predict the handwritten digits written on a canvas and using tensorflow built model using softmax regression with ADAM Optimizer. The model is quite good and is able to predict majority of digits.
+This is a web application developed to detect and predict the handwritten digits written on a canvas and using tensorflow built model using softmax regression with Adam Optimizer. The model is quite good and is able to predict majority of digits.
 
 Here is the deployed application: https://re-digit.herokuapp.com/
 
